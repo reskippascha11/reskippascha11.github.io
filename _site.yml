@@ -1,0 +1,12 @@
+name: "skip.paschall"
+output_dir: "."
+output:
+  html_document:
+    theme: yeti
+navbar:
+  title: "Skip Paschall"
+  left:
+    - text: "Home"
+      href: index.html
+    - text: "About"
+      href: about.html
